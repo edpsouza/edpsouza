@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Eduardo</h1>
 <h3 align="center">A passionate indie Game Developer in the UK.</h3>
 
-- 🔭 I’m currently working on **Yet Another Platformer**
+- 🔭 I’m currently working on **Pixel Odyssey**
 
-- 🌱 I’m currently learning **Godot 4.0 & GDScript**
+- 🌱 I’m currently learning **Godot 4.4 & GDScript**
 
 - 📫 How to reach me **eduardo.ppdesouza@gmail.com**
 
