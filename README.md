@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Pixel Odyssey**
 
-- 🌱 I’m currently learning **Godot 4.4 & GDScript**
+- 🌱 I’m currently learning **C++ and Raylib**
 
 - 📫 How to reach me **eduardo.ppdesouza@gmail.com**
 
