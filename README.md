@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eduardo</h1>
 <h3 align="center">A passionate indie Game Developer in the UK.</h3>
 
-- 🔭 I’m currently working on **DinoRun**
+- 🔭 I’m currently working on **AARPG_Prototype**
 
 - 🌱 I’m currently learning **C++ and Raylib**
 
